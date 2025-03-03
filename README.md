@@ -2,7 +2,7 @@
 
 <p>A curated collection of landing pages, sales funnels, and marketing sites built with no-code and low-code tools like ClickFunnels and GoHighLevel.</p>
 
-<p>Most examples originated from Figma designs and were later built into functional funnels. Some were fully designed and developed by me, while others involved minor updates or optimizations.</p>
+<p>Most examples originated from Figma designs and were later built into functional funnels. Some were fully developed by me, while others involved minor updates or optimizations.</p>
 
 <h2>🎨 Figma Designs</h2>
 <p>These designs were created in Figma before being developed into functional landing pages and funnels:</p>
