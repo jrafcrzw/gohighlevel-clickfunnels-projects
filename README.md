@@ -7,24 +7,24 @@
 <h2>🎨 Figma Designs</h2>
 <p>These designs were created in Figma before being developed into functional landing pages and funnels:</p>
 <ul>
-    <li><a href="https://www.figma.com/design/YFOKSwmsn3aQm2AAirJAfj/FUNNEL-RTT?node-id=0-1&p=f">FUNNEL RTT</a></li>
-    <li><a href="https://www.figma.com/design/EF1GToI80Q1z2JHRY9UmWD/SpringsRejuvenation_EDLandingPageMockup?node-id=0-1&p=f">Springs Rejuvenation - ED Landing Page</a></li>
-    <li><a href="https://www.figma.com/design/lUCNp9NAeANp9OAjsSWoNc/Webinar-Funnel">Webinar Funnel</a></li>
-    <li><a href="https://www.figma.com/design/lUCNp9NAeANp9OAjsSWoNc/Webinar-Funnel?node-id=112-9&p=f">Webinar Funnel - Specific Page</a></li>
+    <li><a href="https://www.figma.com/design/YFOKSwmsn3aQm2AAirJAfj/FUNNEL-RTT?node-id=0-1&p=f" target="_blank">FUNNEL RTT</a></li>
+    <li><a href="https://www.figma.com/design/EF1GToI80Q1z2JHRY9UmWD/SpringsRejuvenation_EDLandingPageMockup?node-id=0-1&p=f" target="_blank">Springs Rejuvenation - ED Landing Page</a></li>
+    <li><a href="https://www.figma.com/design/lUCNp9NAeANp9OAjsSWoNc/Webinar-Funnel" target="_blank">Webinar Funnel</a></li>
+    <li><a href="https://www.figma.com/design/lUCNp9NAeANp9OAjsSWoNc/Webinar-Funnel?node-id=112-9&p=f" target="_blank">Webinar Funnel - Specific Page</a></li>
 </ul>
 
 <h2>🌐 Live Landing Pages</h2>
 <p>These pages are currently live and functional. However, note that some funnels are active only during specific marketing campaigns.</p>
 <ul>
-    <li><a href="https://theflipsecrets.com/dealfinder-training-fb-page">Deal Finder Training</a></li>
-    <li><a href="https://www.ecomwithbilly.com/join">Ecom with Billy</a></li>
-    <li><a href="https://www.pages.scratchgolfacademy.com/sgs-fb">Scratch Golf Academy</a></li>
+    <li><a href="https://theflipsecrets.com/dealfinder-training-fb-page" target="_blank">Deal Finder Training</a></li>
+    <li><a href="https://www.ecomwithbilly.com/join" target="_blank">Ecom with Billy</a></li>
+    <li><a href="https://www.pages.scratchgolfacademy.com/sgs-fb" target="_blank">Scratch Golf Academy</a></li>
 </ul>
 
 <h2>🌐 HubSpot live website</h2>
 <p>Website built and hosted on HubSpot with basic Google Analytics setup using Tag Manager.</p>
 <ul>
-    <li><a href="https://claridadinmobiliaria.com/">Claridad Inmobiliaria</a></li>
+    <li><a href="https://claridadinmobiliaria.com/" target="_blank">Claridad Inmobiliaria</a></li>
 </ul>
 
 <h2>⚠️ Disclaimer</h2>
