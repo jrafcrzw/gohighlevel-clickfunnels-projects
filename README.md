@@ -21,5 +21,11 @@
     <li><a href="https://www.pages.scratchgolfacademy.com/sgs-fb">Scratch Golf Academy</a></li>
 </ul>
 
+<h2>🌐 HubSpot live website</h2>
+<p>Website built and hosted on HubSpot with basic Google Analytics setup using Tag Manager.</p>
+<ul>
+    <li><a href="https://claridadinmobiliaria.com/">Claridad Inmobiliaria</a></li>
+</ul>
+
 <h2>⚠️ Disclaimer</h2>
 <p>Some of the live pages listed above may no longer be accessible in the future. Funnels and landing pages are often created for specific marketing campaigns, and their availability depends on ongoing promotions and business needs.</p>
